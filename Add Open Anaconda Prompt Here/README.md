@@ -1,4 +1,4 @@
-# Open Anaconda Prompt here
+# how to get Open Anaconda Prompt here in options
 
 ## Steps:
 
