@@ -2,15 +2,15 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Anaconda]
 @="Open Anaconda Prompt here"
-"Icon"="C:\\Users\\HomePath\\Anaconda3\\Menu\\anaconda-navigator.ico"
+"Icon"="C:\\Users\\OmarHAMDAOUI\\Anaconda3\\Menu\\anaconda-navigator.ico"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\Anaconda\command]
-@="C:\\Users\\HomePath\\Anaconda3\\pythonw.exe C:\\Users\\HomePath\\Anaconda3\\cwp-modified.py C:\\Users\\HomePath\\Anaconda3 \"%V\" cmd.exe \"/K\" C:\\Users\\HomePath\\Anaconda3\\Scripts\\activate.bat C:\\Users\\HomePath\\Anaconda3"
+@="C:\\Users\\OmarHAMDAOUI\\Anaconda3\\pythonw.exe C:\\Users\\OmarHAMDAOUI\\Anaconda3\\cwp-modified.py C:\\Users\\OmarHAMDAOUI\\Anaconda3 \"%V\" cmd.exe \"/K\" C:\\Users\\OmarHAMDAOUI\\Anaconda3\\Scripts\\activate.bat C:\\Users\\OmarHAMDAOUI\\Anaconda3"
 
 [HKEY_CLASSES_ROOT\Directory\shell\Anaconda]
 @="Open Anaconda Prompt here"
-"Icon"="C:\\Users\\HomePath\\Anaconda3\\Menu\\anaconda-navigator.ico"
-C:\\Users\\HomePath\\Anaconda3
+"Icon"="C:\\Users\\OmarHAMDAOUI\\Anaconda3\\Menu\\anaconda-navigator.ico"
+C:\\Users\\OmarHAMDAOUI\\Anaconda3
 
 [HKEY_CLASSES_ROOT\Directory\shell\Anaconda\command]
-@="C:\\Users\\HomePath\\Anaconda3\\pythonw.exe C:\\Users\\HomePath\\Anaconda3\\cwp-modified.py C:\\Users\\HomePath\\Anaconda3 \"%V\" cmd.exe \"/K\" C:\\Users\\HomePath\\Anaconda3\\Scripts\\activate.bat C:\\Users\\HomePath\\Anaconda3"
+@="C:\\Users\\OmarHAMDAOUI\\Anaconda3\\pythonw.exe C:\\Users\\OmarHAMDAOUI\\Anaconda3\\cwp-modified.py C:\\Users\\OmarHAMDAOUI\\Anaconda3 \"%V\" cmd.exe \"/K\" C:\\Users\\OmarHAMDAOUI\\Anaconda3\\Scripts\\activate.bat C:\\Users\\OmarHAMDAOUI\\Anaconda3"
