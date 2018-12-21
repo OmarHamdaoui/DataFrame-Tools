@@ -11,7 +11,7 @@ Open Anaconda Prompt and type: **where cwp.py**
 ![alt text](https://www.mediafire.com/convkey/8f2c/gay2244n6v2db636g.jpg)
 
 Copy the path without taking the file name that's mean without **\cwp.py**.
-so your path shoud look just like that : **C:\Users\OmarHAMDAOUI\Anaconda3**
+* In my case this was my path : **C:\Users\OmarHAMDAOUI\Anaconda3**
 
 ### Second Step
 * Download the **cwp-modified.py**
